@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1581294796 source:c:\users\torch178\documents\cs1410\unit 5 no brainer\main.cpp
+	<iostream>
+	"TTTGrid.h"
+
+1581292614 source:c:\users\torch178\documents\cs1410\unit 5 no brainer\arraynotes.c
+
+1581295113 c:\users\torch178\documents\cs1410\unit 5 no brainer\include\tttgrid.h
+	<iostream>
+
+1582836623 source:c:\users\torch178\documents\cs1410\unit 5 no brainer\src\tttgrid.cpp
+	"TTTGrid.h"
+
+1581299152 source:c:\users\torch178\documents\cs1410\unit 5 no brainer\cluke_unit5nobrainer_main.cpp
+	<iostream>
+	"TTTGrid.h"
+	<cstdlib>
+
+1581292614 source:c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\unit 5 no brainer\arraynotes.c
+
+1581299152 source:c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\unit 5 no brainer\cluke_unit5nobrainer_main.cpp
+	<iostream>
+	"TTTGrid.h"
+	<cstdlib>
+
+1581295113 c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\unit 5 no brainer\include\tttgrid.h
+	<iostream>
+
+1582836623 source:c:\users\torch178\documents\computer science portfolio\cs 1410 - object oriented programming - c++\unit 5 no brainer\src\tttgrid.cpp
+	"TTTGrid.h"
+
